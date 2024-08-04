@@ -1,0 +1,13 @@
+* {
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+	text-align: center;
+	font-size: 18px;
+}
+
+.index-list {
+	display: inline-block;
+	text-align: justify;
+}
