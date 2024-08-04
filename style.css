@@ -2,12 +2,24 @@
 	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.container {
-	text-align: center;
-	font-size: 18px;
+.container-bicol,
+.container-burger,
+.container-wings {
+	text-align: justify;
 }
 
-.index-list {
+.container-index {
+	font-size: 18px;
+	text-align: center;
+}
+
+.description {
+	display: inline-block;
+	text-align: justify;
+}
+
+ul,
+ol {
 	display: inline-block;
 	text-align: justify;
 }
