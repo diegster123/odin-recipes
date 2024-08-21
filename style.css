@@ -48,6 +48,10 @@ img {
 	margin-top: 250px;
 }
 
+.index-list {
+	text-align: justify;
+}
+
 .description {
 	display: inline-block;
 	text-align: justify;
