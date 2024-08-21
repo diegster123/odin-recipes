@@ -1,16 +1,45 @@
 * {
 	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	max-width: 800px;
+	margin: 0 auto;
 }
 
 .container-bicol,
 .container-burger,
 .container-wings {
-	text-align: justify;
+	text-align: center;
+	background-color: #fff;
+	padding: 20px;
+	box-shadow: 5px 5px;
+	opacity: 80%;
+}
+
+.container-bicol a,
+.container-burger a,
+.container-wings a {
+	display: inline-block;
+	height: 50px;
+	margin-right: 5px;
+}
+
+.container-bicol h2,
+.container-burger h2,
+.container-wings h2 {
+	margin: 30px 0;
 }
 
 .container-index {
 	font-size: 18px;
 	text-align: center;
+	padding: 50px;
+	height: 500px;
+	background-color: #fff;
+	box-shadow: 5px 5px;
+	margin-top: 30px;
+}
+
+.container-index h2 {
+	margin-top: 250px;
 }
 
 .description {
@@ -22,4 +51,5 @@ ul,
 ol {
 	display: inline-block;
 	text-align: justify;
+	list-style-position: inside;
 }
