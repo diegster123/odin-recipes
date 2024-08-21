@@ -14,6 +14,11 @@
 	opacity: 85%;
 }
 
+img {
+	width: 50%;
+	height: auto;
+}
+
 .container-bicol a,
 .container-burger a,
 .container-wings a {
