@@ -10,7 +10,7 @@
 	text-align: center;
 	background-color: #fff;
 	padding: 30px;
-	box-shadow: 5px 5px;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.9);
 	opacity: 85%;
 }
 
@@ -40,7 +40,7 @@ img {
 	height: 100%;
 	width: 70%;
 	background-color: #fff;
-	box-shadow: 5px 5px;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 	margin-top: 30px;
 }
 
